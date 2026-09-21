@@ -1,5 +1,6 @@
 # Результаты сборки
 hello
+main
 hello.exe
 *.o
 *.obj
